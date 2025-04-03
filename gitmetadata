@@ -1,6 +1,6 @@
 {
-  "name": "test lottery",
-  "symbol": "lotto",
+  "name": "Lottery",
+  "symbol": "LoT",
   "description": "A token for cool people doing cool things.",
   "image": "https://raw.githubusercontent.com/youngmasterhiei/test-token-data/main/logo.png",
   "external_url": "https://raw.githubusercontent.com/youngmasterhiei/test-token-data/main/gitmetadata"
